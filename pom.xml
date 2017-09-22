@@ -43,7 +43,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<finalName>${project.name}</finalName>					
+					<finalName>${project.name}2</finalName>					
 				</configuration>
 			</plugin>
 			<plugin>
